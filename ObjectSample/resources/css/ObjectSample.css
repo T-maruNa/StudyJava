@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}    
+html,body{
+    height: 100%;
+    background-color: #F8F8FF;
+}
+
+#inputBox{
+	display: none;
+}
+
+#contents{
+    margin: 3%;
+    height: 100%;
+}
+#leftSide{
+	float:left;
+    background-color: #EFEFFF;
+    margin: 1% 5%;
+    width: 45%;
+    height: 100%;
+}
+
+#rightSide{
+	float:right;
+    background-color: #EFEFFF;
+    margin: 1% 5%;
+    width: 35%;
+    height: 100%;
+}

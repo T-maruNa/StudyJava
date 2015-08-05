@@ -1,0 +1,16 @@
+.fukidasipop {
+	position: absolute;
+	top:17px; left:20px;
+	display: none;
+	padding: 5px;
+	width: 300px;
+	text-decoration: none;
+	color: #ffffff;
+	background-color: #b22222;
+	border-top:white solid 10px;
+	border-left:#b22222 solid 10px;
+
+	filter: alpha(opacity=85); /* IE */
+	-moz-opacity:0.85; /* FirefoxÅENetscape */
+	opacity:0.85; /* OperaÅESafari */
+}
